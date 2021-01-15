@@ -3,7 +3,7 @@ body{
     margin:0 auto;
 }
 header{
-     margin:.3vw 1vw;
+     margin:.3vw .7vw;
 }
 
 @media(max-width:980px){
