@@ -5,10 +5,7 @@ body{
 header{
      margin:.3vw 1vw;
 }
-.kais{
-    /* margin:2vw; */
-    /* position: absolute; */
-}
+
 @media(max-width:980px){
     .kais{
         margin:2vw;
