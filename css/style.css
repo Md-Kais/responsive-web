@@ -225,11 +225,14 @@ border-radius: 20px;
 }
  #contact{
    
-    margin:20px 20px 20px 90px;
+    margin-top:20px ;
+    margin-bottom: 90px;
 } 
 #achievement{
    
-    margin:20px 20px 20px 90px;
+     margin-top:20px ;
+    margin-bottom: 90px;
+    
 } 
 .contact-section{
     background-color: rgba(255, 235, 196,.2);
