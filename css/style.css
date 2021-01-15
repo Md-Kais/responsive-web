@@ -40,6 +40,9 @@ a{
    margin: 0;
    
 }
+p{
+    color: #3e3e3e;
+}
 #home p{
 font-family: 'Roboto', sans-serif;
 font-style: normal;
@@ -149,7 +152,7 @@ border-radius: 20px;
      .card{
         
         height: 36rem;
-    }
+    } 
 
     .button{
         padding: 4px 4px;
@@ -157,9 +160,10 @@ border-radius: 20px;
         border-radius: 5px;
        
 }
-    #woman,#man .card-footer h2{
-        font-size: 15px;
-    }
+    /* #man,#woman .card-footer h2,h3{
+        font-size: 20px;;
+    } */
+    
 }
 
 @media screen and (max-width: 992px){
@@ -172,6 +176,9 @@ border-radius: 20px;
     }
     .section-header{
         text-align: center;
+    }
+     .card-footer h2,h3{
+        font-size: 50px;;
     }
 }
 .button{
@@ -213,4 +220,7 @@ border-radius: 20px;
 }
 #about{
     height: 60vh;
+}
+.my-card{
+    margin: 10px 0;
 }
