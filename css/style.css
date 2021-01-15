@@ -3,9 +3,11 @@ body{
     margin:0 auto;
 }
 header{
-     margin:.3vw .7vw;
+     margin:.3vh .5vw;
 }
-
+.navbar-logo{
+    width: 45%;
+}
 @media(max-width:980px){
     .kais{
         margin:2vw;
