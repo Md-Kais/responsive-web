@@ -223,14 +223,14 @@ border-radius: 20px;
 .my-card{
     margin: 10px 0;
 }
- #contact{
+#contact{
    
-    margin-top:20px ;
-    margin-bottom: 90px;
+    margin-top:20px;
+    margin-bottom:90px;
+    margin-left: 0;
 } 
 #achievement{
-   
-     margin-top:20px ;
+    margin-top:20px ;
     margin-bottom: 90px;
     
 } 
